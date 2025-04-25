@@ -1,0 +1,13 @@
+class TestData:
+    BASE_URL = "https://parabank.parasoft.com/parabank/index.htm"
+    FIRST_NAME = "Dipam"
+    LAST_NAME = "Shah"
+    ADDRESS = "Isack colony"
+    CITY = "Miami"
+    STATE = "Florida"
+    ZIP_CODE = "388888"
+    PHONE = "9876543210"
+    SSN = "4444"
+    USERNAME = "akkibaaki"
+    PASSWORD = "Dipam@223133"
+    CONFIRM_PASSWORD = "Dipam@223133"
